@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/iss-location/static/css/main.ea7d6cd2.chunk.css",
+    "main.js": "/iss-location/static/js/main.2c108800.chunk.js",
+    "main.js.map": "/iss-location/static/js/main.2c108800.chunk.js.map",
+    "runtime-main.js": "/iss-location/static/js/runtime-main.e18265c3.js",
+    "runtime-main.js.map": "/iss-location/static/js/runtime-main.e18265c3.js.map",
+    "static/js/2.e138c75b.chunk.js": "/iss-location/static/js/2.e138c75b.chunk.js",
+    "static/js/2.e138c75b.chunk.js.map": "/iss-location/static/js/2.e138c75b.chunk.js.map",
+    "index.html": "/iss-location/index.html",
+    "static/css/main.ea7d6cd2.chunk.css.map": "/iss-location/static/css/main.ea7d6cd2.chunk.css.map",
+    "static/js/2.e138c75b.chunk.js.LICENSE.txt": "/iss-location/static/js/2.e138c75b.chunk.js.LICENSE.txt",
+    "static/media/latitude.dfbecff8.svg": "/iss-location/static/media/latitude.dfbecff8.svg",
+    "static/media/loading.4e2751d7.svg": "/iss-location/static/media/loading.4e2751d7.svg",
+    "static/media/longitude.6979ac5c.svg": "/iss-location/static/media/longitude.6979ac5c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e18265c3.js",
+    "static/js/2.e138c75b.chunk.js",
+    "static/css/main.ea7d6cd2.chunk.css",
+    "static/js/main.2c108800.chunk.js"
+  ]
+}
